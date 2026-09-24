@@ -45,7 +45,7 @@ The dataset was cleaned and enriched before analysis to improve data quality, re
 
 📊 Power BI Dashboard
 
-!Screenshot 2026-09-22 164840.png
+(screenshot/!Screenshot 2026-09-22 164840.png)
 
 !Screenshot 2026-09-22 164914.png
 
