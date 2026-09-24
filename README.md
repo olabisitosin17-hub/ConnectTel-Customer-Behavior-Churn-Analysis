@@ -1,4 +1,4 @@
-**#📡 ConnectTel Customer Behavior & Churn Analysis**
+# ConnectTel Customer Behavior Churn Analysis
 ## Project Overview
 
 This project analyzes customer behavior and churn patterns to understand service preferences, customer retention, revenue performance, and key factors associated with customer churn. The analysis was conducted using Power BI and Excel on 7,043 customer records.
