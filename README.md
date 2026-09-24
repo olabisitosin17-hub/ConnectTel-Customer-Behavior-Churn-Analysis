@@ -45,11 +45,11 @@ The dataset was cleaned and enriched before analysis to improve data quality, re
 
 📊 Power BI Dashboard
 
-![Churn Analysis](screenshot/Screenshot2026-09-22164840.png)
+![Churn Analysis](Screenshot/Screenshot2026-09-22164840.png)
 
-![Customer Segmentation & Behavior](screenshot/Screenshot2026-09-22164914.png)
+![Customer Segmentation & Behavior](Screenshot/Screenshot2026-09-22164914.png)
 
-![Revenue & Profitability](screenshot/Screenshot2026-09-22164944.png)
+![Revenue & Profitability](Screenshot/Screenshot2026-09-22164944.png)
 
 ### **🔍 Key Insights**
 
